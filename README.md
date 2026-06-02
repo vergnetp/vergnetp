@@ -14,6 +14,7 @@ Full-stack engineer — comfortable across the whole stack, from the maths up to
 
 #### Also here
 
+- 🏃 **[processmyrun](https://github.com/vergnetp/processmyrun)** — a running-analytics web app: connects to Strava, syncs and processes your activities, and visualises runs on maps (React + Firebase). *(2020–2021)*
 - ♟️ **[robinchess](https://github.com/vergnetp/robinchess)** — a chess training platform: custom PGN parser, course/scoring engine, a home-grown serverless framework on Firebase. *(2021)*
 - 📈 **[robinstrategy](https://github.com/vergnetp/robinstrategy)** — an algorithmic trading system: Alpaca / Polygon / Alpha Vantage adapters, technical indicators, strategies. *(2021)*
 
